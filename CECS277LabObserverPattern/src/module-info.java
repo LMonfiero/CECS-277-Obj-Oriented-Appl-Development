@@ -1,0 +1,2 @@
+module CECS277LabObserverPattern {
+}

@@ -1,0 +1,15 @@
+2020-05-07 17:07:02.863 Test Log message
+2020-05-07 17:07:02.869 Motel: The only motel in town Room roster: Available rooms: [101, 102, 103, 104, 105]
+2020-05-07 17:07:02.870 The Colony: Roachman 100 safely registered with amenities: [Foodbar, Refill bar, Spa, Shower]
+2020-05-07 17:07:02.874 Paid : $600.0 using PayPal.Email: Neiman@javamail.compassword : 123456
+2020-05-07 17:07:02.875 Motel: The only motel in town Room roster:
+
+Room: Room Number: 102 Deluxe Room, Refill bar, Spa, Shower, Refill bar, Spa, Shower Cost: $175.0
+Is Hosting: The Colony: WeiRoach 50
+Room: Room Number: 103 Basic Room, Spa, Shower, Spa, Shower Cost: $140.0
+Is Hosting: The Colony: Roacheil 9000
+Room: Room Number: 104 Deluxe Room, Spa, Spa Cost: $115.0
+Is Hosting: The Colony: Austroach 1337
+Room: Room Number: 105 Suite, Foodbar, Refill Bar, Foodbar, Refill Bar Cost: $150.0
+Is Hosting: The Colony: BrownRoach 277
+Available rooms: [101]
